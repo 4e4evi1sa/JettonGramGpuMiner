@@ -2,16 +2,16 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.givers1000 = exports.givers100 = void 0;
 exports.givers100 = [
-    { address: 'EQCfwe95AJDfKuAoP1fBtu-un1yE7Mov-9BXaFM3lrJZwqg_', reward: 100 },
-    { address: 'EQBoATvbIa9vA7y8EUQE4tlsrrt0EhSUK4mndp49V0z7Me3M', reward: 100 },
-    { address: 'EQAV3tsPXau3VJanBw4KCFaMk3l_n3sX8NHZNgICFrR-9EGE', reward: 100 },
-    { address: 'EQAR9DvLZMHo9FAVMHI1vHvL7Fi7jWgjKtUARZ2S_nopQRYz', reward: 100 },
-    { address: 'EQC10L__G2SeEeM2Lw9osGyYxhoIPqJwE-8Pe7728JcmnJzW', reward: 100 },
-    { address: 'EQDZJFkh12kw-zLGqKSGVDf1V2PRzedGZDFDcFml5_0QerST', reward: 100 },
-    { address: 'EQCiLN0gEiZqthGy-dKl4pi4kqWJWjRzR3Jv4jmPOtQHveDN', reward: 100 },
-    { address: 'EQDB8Mo9EviBkg_BxfNv6C2LO_foJRXcgEF41pmQvMvnB9Jn', reward: 100 },
-    { address: 'EQAidDzp6v4oe-vKFWvsV8MQzY-4VaeUFnGM3ImrKIJUIid9', reward: 100 },
-    { address: 'EQAFaPmLLhXveHcw3AYIGDlHbGAbfQWlH45WGf4K4D6DNZxY', reward: 100 }, // 100
+    { address: 'EQCtth94ZGUMCNozUDPW8dOZ6-9pXXGe7wLv0pdwb7-RJ70s', reward: 1000 },
+    { address: 'EQAnnboC6-qjymZkGowo-B4_Ockafmq9XTnDqyO7qPiIgdB6', reward: 1000 },
+    { address: 'EQBJUt01Mv2FFTUwavsTHHv_4EHVz5E4Q-0wRowTr_e5lPoY', reward: 1000 },
+    { address: 'EQBLWmcbT3PLwHBUbgyoPINk0vyZ5jOZYDgMSTR8E00oa9a4', reward: 1000 },
+    { address: 'EQC3MfCLkvDSBWoRO_PKP1HbV60Xj34ZLxdMf_fjiPQZkW1i', reward: 1000 },
+    { address: 'EQBHuE9-Ulm1gkFCO-FhbYhZuQ7HcvP46dr4HckiK6HQTzMK', reward: 1000 },
+    { address: 'EQBdsR4nJbBE3IPBhghrayZTHIiPT6b_WZNmipoSXv3Dgxy1', reward: 1000 },
+    { address: 'EQCJfKA1I7mvuWmVRLDPtWXe808XNuz2rMtE2KqspDXIriNx', reward: 1000 },
+    { address: 'EQC1jvjc7A0IbZXEOY4U3m5jqAtNWYt7XOGNXR1e3WCv_1ky', reward: 1000 },
+    { address: 'EQBMsmRGXaR5T5TVLFnoMywetN-UfbaiB9NJUgqk2tAm-gSB', reward: 1000 }, // 1000
 ];
 exports.givers1000 = [
     { address: 'EQDSGvoktoIRTL6fBEK_ysS8YvLoq3cqW2TxB_xHviL33ex2', reward: 1000 },

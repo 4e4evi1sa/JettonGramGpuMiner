@@ -13,7 +13,7 @@ if [ ! -d "${minerDir}" ]; then
     sudo apt install vim -y
     
     curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash - && sudo apt-get install -y nodejs
-    git clone git clone https://github.com/4e4evi1sa/JettonGramGpuMiner.git
+    git clone https://github.com/4e4evi1sa/JettonGramGpuMiner.git
 
     echo ${minerDir}
     cd JettonGramGpuMiner || cd ${minerDir} || exit
